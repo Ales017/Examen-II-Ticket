@@ -1,0 +1,6 @@
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\bin\Debug\Entidades.dll
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\obj\Debug\Entidades.dll
+C:\Users\dsd21\OneDrive\Documentos\UNAH 2023\lenguaje 3\Examen II\Examen-II-Ticket\vista\Entidades\obj\Debug\Entidades.pdb
