@@ -74,5 +74,9 @@ namespace Examen_IIParcial_Ticket
             abrirformhija(new Principal());
         }
 
+        private void Ticketbutton_Click(object sender, EventArgs e)
+        {
+            abrirformhija(new Ticket());
+        }
     }
 }

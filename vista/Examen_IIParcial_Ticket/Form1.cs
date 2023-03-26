@@ -50,6 +50,7 @@ namespace Examen_IIParcial_Ticket
                     System.Security.Principal.GenericPrincipal principal = new System.Security.Principal.GenericPrincipal(identidad, new string[] { usuario.Rol });
                     System.Threading.Thread.CurrentPrincipal = principal;
 
+
                     //Montramos el Menu
                     Menu menuFormulario = new Menu();
                     this.Hide();

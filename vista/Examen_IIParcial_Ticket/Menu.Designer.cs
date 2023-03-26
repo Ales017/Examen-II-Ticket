@@ -132,6 +132,7 @@
             this.Ticketbutton.TabIndex = 2;
             this.Ticketbutton.Text = "Generar Ticket";
             this.Ticketbutton.UseVisualStyleBackColor = false;
+            this.Ticketbutton.Click += new System.EventHandler(this.Ticketbutton_Click);
             // 
             // Serviciosbutton
             // 

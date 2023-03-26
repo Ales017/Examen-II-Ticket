@@ -60,6 +60,18 @@
     <Compile Include="Apple.Designer.cs">
       <DependentUpon>Apple.cs</DependentUpon>
     </Compile>
+    <Compile Include="BuscarClienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarClienteForm.Designer.cs">
+      <DependentUpon>BuscarClienteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarServicioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarServicioForm.Designer.cs">
+      <DependentUpon>BuscarServicioForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,8 +104,20 @@
     <Compile Include="Android.Designer.cs">
       <DependentUpon>Android.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket.Designer.cs">
+      <DependentUpon>Ticket.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Apple.resx">
       <DependentUpon>Apple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarClienteForm.resx">
+      <DependentUpon>BuscarClienteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarServicioForm.resx">
+      <DependentUpon>BuscarServicioForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -119,6 +143,9 @@
     </Compile>
     <EmbeddedResource Include="Android.resx">
       <DependentUpon>Android.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ticket.resx">
+      <DependentUpon>Ticket.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
